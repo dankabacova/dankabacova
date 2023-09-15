@@ -3,4 +3,6 @@
 - prices
 - product_translations
 - articles
+- magazine
+- fresh news
 
