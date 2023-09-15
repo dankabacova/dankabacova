@@ -1,4 +1,6 @@
-1. Create new table in DB
+- best news
 - products
 - prices
 - product_translations
+- articles
+
