@@ -1,9 +1,9 @@
 - best news
 - products
 - prices
-- product_translations
-- articles
-- magazine
+gwegew
+
+gwegew
 - fresh news
 - affiliates
 - abc / csd
